@@ -19,7 +19,7 @@ _**Dados do projeto de ensino**_
 -[João Vitor Coelho Estrela]()    
 
 ### [1.0 VARIÁVEIS E IMPRESSÕES](https://linguagensprogramacao001.github.io/Python-3/CAP_10000.html)
-#### [1.1 Variáveis]()
+#### [1.1 Variáveis](https://nbviewer.jupyter.org/github/linguagensprogramacao001/Python-3/blob/gh-pages/CAP_10001.ipynb)
 #### [1.2 Operadores aritméticos]()
 #### [1.3 Operadores relacionais]()
 #### [1.4 Operadores lógicos]()
