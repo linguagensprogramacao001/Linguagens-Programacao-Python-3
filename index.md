@@ -19,10 +19,10 @@ _**Dados do projeto de ensino**_
 -[João Vitor Coelho Estrela]()    
 
 ### [1.0 VARIÁVEIS E IMPRESSÕES](https://linguagensprogramacao001.github.io/Python-3/CAP_10000.html)
-#### [1.1 Método de Gauss para sistemas lineares]()
-#### [1.2 Método de Gauss para sistemas lineares]()
-#### [1.3 Método de Gauss para sistemas lineares]()
-#### [1.4 Método de Gauss para sistemas lineares]()
+#### [1.1 Variáveis]()
+#### [1.2 Operadores aritméticos]()
+#### [1.3 Operadores relacionais]()
+#### [1.4 Operadores lógicos]()
 ### 2.0 ENTRADA E SAÍDA DE DADOS
 #### [2.1 Método de Gauss para sistemas lineares]()
 #### [2.2 Método de Gauss para sistemas lineares]()
