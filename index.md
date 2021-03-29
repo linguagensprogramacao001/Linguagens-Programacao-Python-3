@@ -16,9 +16,9 @@ _**Dados do projeto de ensino**_
 [Prof. Dra. Dorival Piedade Neto](http://lattes.cnpq.br/2268506213083114)  
 
 **Discentes:**    
-- João Vitor Coelho Estrela    
+-[João Vitor Coelho Estrela]()    
 
-### 1.0 VARIÁVEIS E IMPRESSÕES
+### [1.0 VARIÁVEIS E IMPRESSÕES](https://linguagensprogramacao001.github.io/Python-3/CAP_10000.html)
 #### [1.1 Método de Gauss para sistemas lineares]()
 #### [1.2 Método de Gauss para sistemas lineares]()
 #### [1.3 Método de Gauss para sistemas lineares]()
