@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+Seja bem vindo ao curso Linguagens de Programação: Pyhton 3
+<p align="justify">Nesse repositório você poderá ter acesso ao curso de Python 3 ministrado em cursos de graduação e pós-graduação da UFCAT, PUC-GO e USP São Carlos.</p> 
 
-You can use the [editor on GitHub](https://github.com/linguagensprogramacao001/Linguagens-Programacao-Python-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_**Dados do projeto de ensino**_  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Nome: Produção de material didático para ensino em engenharias**  (_**SEI nº 123456.89**_)  
 
-### Markdown
+**Início do projeto:** 2021  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Coordenação:** [Prof. Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)     
 
-```markdown
-Syntax highlighted code block
+**Colaboradores:**   
+[Prof. Dr. Marcos Napoleão Rabelo](http://lattes.cnpq.br/2268506213083114)     
+[Prof. Dra. Maria José Pereira Dantas](http://lattes.cnpq.br/2268506213083114)   
+[Prof. Dr. Rodrigo Ribeiro Paccola](http://lattes.cnpq.br/2268506213083114)  
+[Prof. Dra. Dorival Piedade Neto](http://lattes.cnpq.br/2268506213083114)  
 
-# Header 1
-## Header 2
-### Header 3
+**Discentes:**    
+- João Vitor Coelho Estrela    
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linguagensprogramacao001/Linguagens-Programacao-Python-3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 1.0 VARIÁVEIS E IMPRESSÕES
+#### [1.1 Método de Gauss para sistemas lineares]()
+#### [1.2 Método de Gauss para sistemas lineares]()
+#### [1.3 Método de Gauss para sistemas lineares]()
+#### [1.4 Método de Gauss para sistemas lineares]()
+### 2.0 ENTRADA E SAÍDA DE DADOS
+#### [2.1 Método de Gauss para sistemas lineares]()
+#### [2.2 Método de Gauss para sistemas lineares]()
+#### [2.3 Método de Gauss para sistemas lineares]()
